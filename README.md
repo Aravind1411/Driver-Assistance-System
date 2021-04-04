@@ -1,5 +1,5 @@
 # Driver-Assistance-System
-This repository contains the code and the research paper related to the Driver assistance project which is funded by my college.
+This repository contains the code and the research paper related to the Driver assistance project.
 ## Motivation:
 Now-a-days lot of accidents occur due to alcohol consumption and drowsiness of the driver.To overcome this we have come up with a solution that alerts the driver using buzzer if the driver is found to be sleepy.It also detects whether the driver has consumed alcohol.In case an accident occurs,this system sends the location of the vehicle to the concerned persons.
 ## Technologies and tools:
