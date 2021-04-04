@@ -5,6 +5,8 @@ Now-a-days lot of accidents occur due to alcohol consumption and drowsiness of t
 ## Technologies and tools:
 * Python
 * OpenCv
+* Firebase
+* Android
 * RaspberryPi
 * MQ3 sensor
 * Piezoelectric sensor
