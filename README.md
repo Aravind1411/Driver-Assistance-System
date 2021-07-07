@@ -10,10 +10,6 @@ Now-a-days lot of accidents occur due to alcohol consumption and drowsiness of t
 * RaspberryPi
 * MQ3 sensor
 * Piezoelectric sensor
-## Hardware:
-![](Output%20images/image--020.jpg)
-The Raspberry pi is connected to laptop using remote desktop connection app on windows 10.
-Both the laptop and raspberry pi are connected to same JIO network.
 ## Output:
 #### When the eyes are open:
 ![](Output%20images/192.168.43.100%20-%20Remote%20Desktop%20Connection%2021-02-2021%202.42.33%20PM.png)
@@ -26,6 +22,11 @@ Both the laptop and raspberry pi are connected to same JIO network.
 <br>![](Output%20images/image--026.png)
 <br>![](Output%20images/image--029.jpg)
 #### <br>While using the Android App , permissions such as sms and location should be enabled.
+## Hardware:
+![](Output%20images/image--020.jpg)
+The Raspberry pi is connected to laptop using remote desktop connection app on windows 10.
+Both the laptop and raspberry pi are connected to same JIO network.
+
  ## Teammates:
  [Praveen Kumar.V](https://github.com/praveenkumar0211)
  [Prathyush.S](https://github.com/prathyush2510)
